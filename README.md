@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif)]
+[![MasterHead](https://www.capgemini.com/dk-en/wp-content/uploads/sites/42/2019/09/DEVOPS.gif)]
 <h1 align="center">Hi 👋, I'm Anil Yadav</h1>
 <h3 align="center">I am a passionate DevOps Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.techbloggingworld.com/wp-content/uploads/2021/08/Cloud-Computing.gif">
