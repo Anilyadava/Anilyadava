@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilyadava" alt="anilyadava" /></a> </p>
 
-- 🔭 I'm an AWS Solutions Architect Associate Certified 
+- 🔭 I'm **AWS Solutions Architect Associate Certified** 
 
 - 🔭 I’m currently working on **AWS related projects**
 
