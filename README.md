@@ -1,20 +1,20 @@
 [![MasterHead](https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif)]
 <h1 align="center">Hi 👋, I'm Anil Yadav</h1>
-<h3 align="center">Hey there I'm Anil Yadav, I am a DevOps Engineer & Enthusiast, I mainly work on cloud related services.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif">
+<h3 align="center">Hey there I'm Anil Yadav, I am a DevOps Engineer & Solutions Architect,I mainly work on Cloud servcies and troubleshooting issues related to it.</h3>
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilyadava&label=Profile%20views&color=0e75b6&style=flat" alt="anilyadava" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilyadava" alt="anilyadava" /></a> </p>
 
 - 🔭 I'm **AWS Solutions Architect Associate Certified** 
 
-- 🔭 I’m currently working on **AWS related projects**
+- 🔭 I’m currently working on **Cloud Infrastructure Creation & Its Maintenance**
 
-- 🌱 I’m currently learning **AWS,Docker,Kubernetes**
+- 🌱 I’m currently learning **SaltStack,Ansible,ArgoCD**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anilyadava](https://github.com/Anilyadava)
 
-- 💬 Ask me about **AWS Services**
+- 💬 Ask me about **AWS Services, Bash ,Docker or Kubernetes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
